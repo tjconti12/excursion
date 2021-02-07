@@ -29,13 +29,14 @@ p {
     font-size: 16px;
     text-align: center;
 }
-img {
-
+a {
+    color: aquamarine;
+    
 }
 
 
 
-
 footer {
-
+    color: gray;
+    text-align: right;
 }
