@@ -10,14 +10,18 @@ h1 {
 }
 
 h2 {
-
+    font-weight: 300;
+    font-size: 42px;
+    text-align: center;
 }
 video {
     display: block;
     margin: 0 auto;
 }
 p {
-
+    font-size: 21px;
+    color: gray;
+    text-align: center;
 }
 
 .download-link {
